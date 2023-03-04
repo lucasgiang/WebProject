@@ -1,1 +1,3 @@
 Duoc tao boi nhan vien B
+
+Them noi dung cua nhan vien B
