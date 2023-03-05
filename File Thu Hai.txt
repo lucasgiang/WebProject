@@ -9,3 +9,5 @@ Noi dung cua may tinh 2
 Noi Dung hoc GIT GUI
 
 Them moi file thu chin
+
+Them moi noi dung
