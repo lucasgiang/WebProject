@@ -11,3 +11,5 @@ Noi Dung hoc GIT GUI
 Them moi file thu chin
 
 Them moi noi dung de xay ra su xung dot conflict
+
+Them moi noi dung
